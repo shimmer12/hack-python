@@ -1,2 +1,2 @@
-# hack-python
-Using for hacktoberfest 2022 
+# Python_basics
+ Contains the basic codes and programs of python
